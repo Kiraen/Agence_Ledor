@@ -128,8 +128,12 @@ header {
 
 /* OFFER CONTAINER */
 
+.offer-section {
+  padding: 10rem;
+}
+
 .title-offer {
-  margin: 10rem 0 2rem 20%;
+  margin: 0rem 0 2rem 15%;
   font-weight: 400;
 }
 
@@ -143,13 +147,12 @@ header {
 .offer-content {
   margin: 1rem;
   margin-top: 2.5rem;
-  margin-bottom: 13rem;
   background: white;
   text-align: center;
   height: 25.1rem;
   border: solid;
   border-width: 1px;
-  border-color: rgba(0, 0, 0, 0.15);
+  border-color: rgba(0, 0, 0, 0.2);
 }
 
 .offer-content img {
